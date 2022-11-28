@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=austincomstock)
 
-- 👋 Hi, I’m @austincomstock
-- 🌱 I’m currently learning React.js and Backend Development
+Hello 👋
 
 <!---
 austincomstock/austincomstock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=austincomstock)
 
-Hello 👋 
+Hello 👋 👨‍💻
 
 My name is Austin, I'm a frontend web developer working to become a full stack web developer. 
 

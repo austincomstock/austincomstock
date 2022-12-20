@@ -2,7 +2,7 @@
 
 Hello 👋
 
-My name is Austin, I'm a front-end web developer working to become a full stack web developer. 
+My name is Austin, I'm a front-end web developer working to become a full-stack web developer. 
 
 <h3>Programming languages I have experience with:</h3>
 

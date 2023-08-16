@@ -7,10 +7,9 @@ My name is Austin, I'm a front-end web developer working to become a full-stack 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/austincomstock)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/austincomstock) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/austin.comstock.18)
 
+
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=austincomstock)<br/>
-![](https://github-readme-stats.vercel.app/api?username=austincomstock&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=austincomstock&theme=dark&hide_border=false)<br/>
 
 
 ---
